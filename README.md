@@ -1,4 +1,3 @@
-# my-website[aboutme1.html](https://github.com/user-attachments/files/21777474/aboutme1.html)
 <!DOCTYPE html>
 <html>
 <head link rel="icon" type="image/png" href="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-25a4-622f-b1da-22c59514da6e/raw?se=2025-08-14T17%3A32%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=7ab4fbf3-551a-5dab-8f07-d756ec6a326f&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-13T19%3A59%3A12Z&ske=2025-08-14T19%3A59%3A12Z&sks=b&skv=2024-08-04&sig=i4mTkfzMgt4DvirWLbmQ3KwYVGjOe3j30jiDuPELSNI%3D">
